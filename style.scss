@@ -7,8 +7,9 @@ body {
   background-size: 100%;
   position: relative;
 }
-// Forte
-// Mistral
+// Fonts
+//  - Forte
+//  - Mistral
 
 .header {
   position: fixed;
@@ -51,9 +52,10 @@ body {
   height: 400px;
   margin: 0 auto;
   font-family: "Mistral";
+  display: flex;
   .all-notes {
     margin: 0 auto;
-    width: 95%;
+    width: 99%;
 
     .note {
       width: 300px;

@@ -52,11 +52,12 @@ body {
   height: 400px;
   margin: 0 auto;
   font-family: "Mistral";
+  display: flex;
 }
 
 .container .all-notes {
   margin: 0 auto;
-  width: 95%;
+  width: 99%;
 }
 
 .container .all-notes .note {
